@@ -6,7 +6,7 @@
 
 ## 代码地址
 
-开源地址：git@github.com:yao378186268/4399-snake.git
+开源地址：git@github.com/yao378186268/4399-snake.git
 
 ## 项目预览
 
